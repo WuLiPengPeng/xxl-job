@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center" >
     <img src="https://www.xuxueli.com/doc/static/xxl-job/images/xxl-logo.jpg" width="150">
     <h3 align="center">XXL-JOB</h3>
@@ -452,3 +453,7 @@ This product is open source and free, and will continue to provide free communit
 No matter how much the donation amount is enough to express your thought, thank you very much ：）     [To donate](https://www.xuxueli.com/page/donate.html )
 
 无论捐赠金额多少都足够表达您这份心意，非常感谢 ：）      [前往捐赠](https://www.xuxueli.com/page/donate.html )
+=======
+# xxl-job
+分布式任务调度平台-study
+>>>>>>> 6dc3bcacabeba337d305c66eb42ea09a37d1183f
